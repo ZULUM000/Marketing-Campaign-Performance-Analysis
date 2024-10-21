@@ -83,7 +83,27 @@ The dataset contains the following columns:
        Fall Campaign was the highest spend and it yielded the highest revenue, followed by Spring and then Summer.
 7. Time Series Analysis:
     1. Are there any noticeable trends or seasonal effects in ad performance over time?
-       
+
+-----
+
+Dahboard
+
+![image](https://github.com/user-attachments/assets/af65bd58-0e45-435d-a94b-06d7faa6af2d)
+
+![image](https://github.com/user-attachments/assets/d8b8b538-7698-4b33-be8b-a6cb71f9a317)
+
+![image](https://github.com/user-attachments/assets/6115e6f3-f8f0-47de-8a45-a509802d2a28)
+
+![image](https://github.com/user-attachments/assets/8287cbd7-9bb3-4f04-9ac6-ce669b39110e)
+
+![image](https://github.com/user-attachments/assets/e9d99d0c-94b0-42f6-aef4-465173db2fe8)
+
+![image](https://github.com/user-attachments/assets/c1169c1e-73d2-48b0-824f-c3ae2017b70b)
+
+
+
+
+
 
 
 
