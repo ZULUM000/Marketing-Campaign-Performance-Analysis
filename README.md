@@ -86,7 +86,7 @@ The dataset contains the following columns:
 
 -----
 
-Dahboard
+Dashboards
 
 ![image](https://github.com/user-attachments/assets/af65bd58-0e45-435d-a94b-06d7faa6af2d)
 
